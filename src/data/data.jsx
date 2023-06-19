@@ -75,7 +75,7 @@ export const data = [
     ],
   },
   {
-    name: "On Pregress",
+    name: "Done",
     dotColor: "#76A5EA",
     lineColor: "#8BC48A",
     taskNumber: 2,
