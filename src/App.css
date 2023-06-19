@@ -1,0 +1,12 @@
+#root {
+  margin: 0 auto;
+  padding: 20px 0;
+  font-family: "Inter", sans-serif;
+}
+
+.lightCover {
+  background-image: url("./assets/img/Ellipse19.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
