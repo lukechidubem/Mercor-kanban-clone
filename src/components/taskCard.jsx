@@ -109,7 +109,7 @@ const TaskCard = ({
                 <p>comments</p>
               </div>
               <div className="flex items-center gap-1">
-                <TiFolderDelete />
+                <TiFolderDelete className="text-lg" />
                 <p>{files}</p>
                 <p>files</p>
               </div>{" "}
