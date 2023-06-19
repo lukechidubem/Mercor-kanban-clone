@@ -5,6 +5,7 @@ import React from "react";
 import { BsThreeDots } from "react-icons/bs";
 import { Draggable } from "react-beautiful-dnd";
 import { BsChatSquareDots } from "react-icons/bs";
+import { TiFolderDelete } from "react-icons/ti";
 
 import ProfilePicture from "./profilePicture";
 
@@ -108,7 +109,7 @@ const TaskCard = ({
                 <p>comments</p>
               </div>
               <div className="flex items-center gap-1">
-                <BsChatSquareDots />
+                <TiFolderDelete />
                 <p>{files}</p>
                 <p>files</p>
               </div>{" "}
